@@ -29,6 +29,27 @@ const questions = [
         name: 'contributing',
         message: 'What are the contribution guidelines?',
       },
+      {
+        type: 'input',
+        name: 'tests',
+        message: 'What are the test instructions',
+      },
+      {
+        type: 'list',
+        name: 'license',
+        message: 'Choose a license for your project:',
+        choices: ['MIT', 'GNU', 'Apache 2.0', 'None'],
+      },
+      {
+        type: 'input',
+        name: 'github',
+        message: 'Enter your GitHub username:',
+      },
+      {
+        type: 'input',
+        name: 'email',
+        message: 'Enter your email address:',
+      },
 ];
 
 // TODO: Create a function to write README file
