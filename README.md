@@ -59,7 +59,9 @@ To run test, use the following command:
 The README Generator is a valuable tool for developers lookiing to streamline their project documentation process. By auytomating the creation of README files, it saves time and ensure consistency across projects. We hope you find this tool userful and welcome any feedback and contributions to improve it further.
 
 ## Questions
-I fyou have any questions, please open an issue or contact me directly at peruvpowwow94@gmail.com. You can find more of my work on my GitHub profile.
+If you have any questions, please open an issue or contact me directly at peruvpowwow94@gmail.com. You can find more of my work on my GitHub profile.
+
+Note: This README file was generated using the README Generator
 
 ### Customization:
 
