@@ -77,4 +77,4 @@ function generateMarkdown(data) {
 `;
 }
 
-export default generateMarkdown;
+module.exports = generateMarkdown;
