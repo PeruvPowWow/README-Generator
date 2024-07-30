@@ -4,12 +4,16 @@
 The Professional README Generator is a command-line application that simplifies the creation of high-quality README files for GitHub repositories. By prompting the user for specific information about their project, this tool generates a structured and professional README file, allowing developers to focus more on coding and less on documentation.
 
 ## Table of Contents
+- [Description](#description)
 - [Installation](#installation)
 - [Usage](#usage)
-- [License](#license)
-- [Contributing](#contributing)
+- [Technologies](#technologies-used)
 - [Tests](#tests)
+- [Video](#how-to-video)
+- [Conclusion](#conclusion)
 - [Questions](#questions)
+- [Customization](#customization)
+
 
 ## Installation
 To use the Professional README Generator, follow these steps:
