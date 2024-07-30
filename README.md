@@ -54,6 +54,7 @@ To run test, use the following command:
     npm test
 
 ## How-to Video
+https://www.youtube.com/watch?v=0JfJcic6DZY
 
 ## Conclusion
 The README Generator is a valuable tool for developers lookiing to streamline their project documentation process. By auytomating the creation of README files, it saves time and ensure consistency across projects. We hope you find this tool userful and welcome any feedback and contributions to improve it further.
